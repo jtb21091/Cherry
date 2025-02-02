@@ -11,6 +11,10 @@ Below are the metrics for the best model compared to CGM benchmarks:
 | MARD         | 21%              | 10.5%         |
 | Sigma Level  | 0.40             | 3.0           |
 
+As you can see, in current state, it is not very accurate or precise
+
+Keep checking releases as I add more data from myself gathering data
+
 ![Image](pngfiles/1.png)
 
 ![Image](pngfiles/2.png)
