@@ -1,6 +1,6 @@
 # Cherry
 Cherry; a moonshot program to monitor, read, and predict blood glucose or interstitial fluids from the eyes
-
+Download vscode https://code.visualstudio.com/ or python https://www.python.org/ to run 
 Below are the metrics for the best model compared to CGM benchmarks:
 
 | Metric       | Best Model Value | CGM Benchmark |
@@ -25,11 +25,11 @@ Created by Joshua Thomas Brooks jtbrooks210@gmail.com
 
 Any use or modification of this software must list this LICENSE file
 
-Any commercialization of this software is subject to 51% of revenue going to the createor; Joshua Thomas Brooks jtbrooks210@gmail.com
+Any commercialization of this software is subject to 51% of revenue going to the creator; Joshua Thomas Brooks jtbrooks210@gmail.com
 
-Any patent of this software or earily similar software is subject to 51% of patent rights going to the createor; Joshua Thomas Brooks jtbrooks210@gmail.com
+Any patent of this software or earily similar software is subject to 51% of patent rights going to the creator; Joshua Thomas Brooks jtbrooks210@gmail.com
 
-Feel free to modify, but any commercialization or patent of this software is subject to 51% of revenue going to the createor; Joshua Thomas Brooks jtbrooks210@gmail.com
+Feel free to modify, but any commercialization or patent of this software is subject to 51% of revenue going to the creator; Joshua Thomas Brooks jtbrooks210@gmail.com
 
 If you want to make a donation feel free to on this site
 
