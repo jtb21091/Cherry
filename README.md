@@ -1,6 +1,8 @@
 # Cherry
 Cherry; a moonshot program to monitor, read, and predict blood glucose or interstitial fluids from the eyes
+
 Download vscode https://code.visualstudio.com/ or python https://www.python.org/ to run 
+
 Below are the metrics for the best model compared to CGM benchmarks:
 
 | Metric       | Best Model Value | CGM Benchmark |
