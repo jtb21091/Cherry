@@ -19,6 +19,8 @@ Keep checking releases as I add more data from myself gathering data
 
 ![Image](pngfiles/2.png)
 
+![Image](pngfiles/3.png)
+
 Created by Joshua Thomas Brooks jtbrooks210@gmail.com
 
 Any use or modification of this software must list this LICENSE file
